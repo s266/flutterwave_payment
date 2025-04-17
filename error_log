@@ -1,0 +1,536 @@
+[11-Apr-2025 08:22:03 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:22:03 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:22:03 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:22:03 UTC] PHP Warning:  Attempt to read property "message" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 44
+[11-Apr-2025 08:22:03 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:22:03 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:22:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:44) in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:22:09 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:22:09 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:22:09 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:22:09 UTC] PHP Warning:  Attempt to read property "message" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 44
+[11-Apr-2025 08:22:09 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:22:09 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:22:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:44) in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:22:15 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:22:15 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:22:15 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:22:15 UTC] PHP Warning:  Attempt to read property "message" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 44
+[11-Apr-2025 08:22:15 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:22:15 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:22:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:44) in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:25:53 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:25:53 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:25:53 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:25:53 UTC] PHP Warning:  Attempt to read property "message" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 44
+[11-Apr-2025 08:25:53 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:25:53 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:25:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:44) in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:25:57 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:25:57 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:25:57 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:25:57 UTC] PHP Warning:  Attempt to read property "message" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 44
+[11-Apr-2025 08:25:57 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:25:57 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:25:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:44) in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:28:15 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:28:15 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:28:15 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:28:15 UTC] PHP Warning:  Attempt to read property "message" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 44
+[11-Apr-2025 08:28:15 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:28:15 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:28:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:44) in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:29:16 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:29:16 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:29:16 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:29:16 UTC] PHP Warning:  Attempt to read property "message" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 44
+[11-Apr-2025 08:29:16 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:29:16 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:29:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:44) in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:29:28 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:29:28 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:29:28 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:29:28 UTC] PHP Warning:  Attempt to read property "message" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 44
+[11-Apr-2025 08:29:28 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:29:28 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:29:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:44) in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:29:32 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:29:32 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:29:32 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:29:32 UTC] PHP Warning:  Attempt to read property "message" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 44
+[11-Apr-2025 08:29:32 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:29:32 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:29:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:44) in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:31:04 UTC] PHP Warning:  Undefined array key "txref" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 4
+[11-Apr-2025 08:31:04 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 5
+[11-Apr-2025 08:31:04 UTC] PHP Warning:  Undefined array key "email" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 6
+[11-Apr-2025 08:31:05 UTC] PHP Warning:  Undefined array key "status" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 33
+[11-Apr-2025 08:31:05 UTC] PHP Warning:  Undefined array key "chargecode" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 34
+[11-Apr-2025 08:31:05 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 35
+[11-Apr-2025 08:31:05 UTC] PHP Warning:  Undefined array key "currency" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 36
+[11-Apr-2025 08:31:05 UTC] PHP Warning:  Undefined array key "txref" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 4
+[11-Apr-2025 08:31:05 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 5
+[11-Apr-2025 08:31:05 UTC] PHP Warning:  Undefined array key "email" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 6
+[11-Apr-2025 08:31:06 UTC] PHP Warning:  Undefined array key "status" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 33
+[11-Apr-2025 08:31:06 UTC] PHP Warning:  Undefined array key "chargecode" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 34
+[11-Apr-2025 08:31:06 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 35
+[11-Apr-2025 08:31:06 UTC] PHP Warning:  Undefined array key "currency" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 36
+[11-Apr-2025 08:31:16 UTC] PHP Warning:  Undefined array key "txref" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 4
+[11-Apr-2025 08:31:17 UTC] PHP Warning:  Undefined array key "status" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 33
+[11-Apr-2025 08:31:17 UTC] PHP Warning:  Undefined array key "chargecode" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 34
+[11-Apr-2025 08:31:17 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 35
+[11-Apr-2025 08:31:17 UTC] PHP Warning:  Undefined array key "currency" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 36
+[11-Apr-2025 08:31:49 UTC] PHP Warning:  Undefined array key "txref" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 4
+[11-Apr-2025 08:31:49 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 5
+[11-Apr-2025 08:31:49 UTC] PHP Warning:  Undefined array key "email" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 6
+[11-Apr-2025 08:31:50 UTC] PHP Warning:  Undefined array key "status" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 33
+[11-Apr-2025 08:31:50 UTC] PHP Warning:  Undefined array key "chargecode" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 34
+[11-Apr-2025 08:31:50 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 35
+[11-Apr-2025 08:31:50 UTC] PHP Warning:  Undefined array key "currency" in /home/cashcroptest/public_html/userpanel/flutterwave/redirect.php on line 36
+[11-Apr-2025 08:39:34 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:39:34 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:39:34 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 42
+[11-Apr-2025 08:39:34 UTC] PHP Warning:  Attempt to read property "message" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 44
+[11-Apr-2025 08:39:34 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:39:34 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 08:39:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:44) in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 49
+[11-Apr-2025 10:09:04 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:09:04 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:10:31 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:10:31 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:11:33 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:11:33 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:11:34 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 45
+[11-Apr-2025 10:11:34 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 45
+[11-Apr-2025 10:11:34 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 45
+[11-Apr-2025 10:11:34 UTC] PHP Warning:  Attempt to read property "message" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 47
+[11-Apr-2025 10:11:34 UTC] PHP Warning:  Attempt to read property "data" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 52
+[11-Apr-2025 10:11:34 UTC] PHP Warning:  Attempt to read property "link" on null in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 52
+[11-Apr-2025 10:11:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:47) in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 52
+[11-Apr-2025 10:11:43 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:11:43 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:11:56 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:11:56 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:15:33 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:15:33 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:20:40 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:20:40 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:20:40 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:20:40 UTC] PHP Warning:  Undefined variable $userid in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:20:40 UTC] PHP Warning:  Undefined variable $amount in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:20:40 UTC] PHP Warning:  Undefined variable $current in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:20:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:5
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(5): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:21:55 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:21:55 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:21:55 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 16
+[11-Apr-2025 10:21:55 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:16
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(16): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 16
+[11-Apr-2025 10:22:22 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:22:22 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:22:22 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 16
+[11-Apr-2025 10:22:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:16
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(16): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 16
+[11-Apr-2025 10:22:28 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:22:28 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:22:28 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 16
+[11-Apr-2025 10:22:28 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:16
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(16): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 16
+[11-Apr-2025 10:23:19 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:23:19 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:23:19 UTC] PHP Warning:  Undefined array key "user_id" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:23:19 UTC] PHP Warning:  Undefined array key "user_id" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 11
+[11-Apr-2025 10:23:19 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 12
+[11-Apr-2025 10:23:40 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:23:40 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:25:57 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 7
+[11-Apr-2025 10:25:57 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:30:00 UTC] PHP Warning:  include(../lib/config.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:30:00 UTC] PHP Warning:  include(): Failed opening '../lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:30:27 UTC] PHP Warning:  include(../lib/config.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:30:27 UTC] PHP Warning:  include(): Failed opening '../lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:30:29 UTC] PHP Warning:  include(../lib/config.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:30:29 UTC] PHP Warning:  include(): Failed opening '../lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:31:44 UTC] PHP Warning:  include(../lib/config.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:31:44 UTC] PHP Warning:  include(): Failed opening '../lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:31:46 UTC] PHP Warning:  include(../lib/config.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:31:46 UTC] PHP Warning:  include(): Failed opening '../lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:36:00 UTC] PHP Warning:  include(../lib/config.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:36:00 UTC] PHP Warning:  include(): Failed opening '../lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:36:00 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 12
+[11-Apr-2025 10:36:00 UTC] PHP Warning:  Undefined variable $userid in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 12
+[11-Apr-2025 10:36:00 UTC] PHP Warning:  Undefined variable $amount in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 12
+[11-Apr-2025 10:36:00 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:12
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(12): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 12
+[11-Apr-2025 10:36:02 UTC] PHP Warning:  include(../lib/config.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:36:02 UTC] PHP Warning:  include(): Failed opening '../lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:36:02 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:36:02 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 7
+[11-Apr-2025 10:36:02 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 12
+[11-Apr-2025 10:36:02 UTC] PHP Warning:  Undefined variable $userid in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 12
+[11-Apr-2025 10:36:02 UTC] PHP Warning:  Undefined variable $amount in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 12
+[11-Apr-2025 10:36:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:12
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(12): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 12
+[11-Apr-2025 10:36:11 UTC] PHP Warning:  include(../lib/config.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:36:11 UTC] PHP Warning:  include(): Failed opening '../lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:36:11 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:36:11 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 7
+[11-Apr-2025 10:36:56 UTC] PHP Warning:  include(../lib/config.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:36:56 UTC] PHP Warning:  include(): Failed opening '../lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:38:09 UTC] PHP Warning:  include(../lib/config.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:38:09 UTC] PHP Warning:  include(): Failed opening '../lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:38:09 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 12
+[11-Apr-2025 10:38:09 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:12
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(12): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 12
+[11-Apr-2025 10:39:29 UTC] PHP Warning:  include(../lib/config.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:39:29 UTC] PHP Warning:  include(): Failed opening '../lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:39:29 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 12
+[11-Apr-2025 10:39:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:12
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(12): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 12
+[11-Apr-2025 10:39:38 UTC] PHP Warning:  include(../lib/config.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:39:38 UTC] PHP Warning:  include(): Failed opening '../lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:39:38 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 12
+[11-Apr-2025 10:39:38 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:12
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(12): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 12
+[11-Apr-2025 10:39:45 UTC] PHP Warning:  include(../lib/config.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:39:45 UTC] PHP Warning:  include(): Failed opening '../lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:42:25 UTC] PHP Warning:  include(../lib/config.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:42:25 UTC] PHP Warning:  include(): Failed opening '../lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:42:25 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 11
+[11-Apr-2025 10:42:25 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:11
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(11): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 11
+[11-Apr-2025 10:43:04 UTC] PHP Warning:  include(../lib/config.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:43:04 UTC] PHP Warning:  include(): Failed opening '../lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:44:45 UTC] PHP Warning:  include(../lib/config.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:44:45 UTC] PHP Warning:  include(): Failed opening '../lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:44:45 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:44:45 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:44:45 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:44:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:9
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(9): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:44:46 UTC] PHP Warning:  include(../lib/config.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:44:46 UTC] PHP Warning:  include(): Failed opening '../lib/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:44:46 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:44:46 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:44:46 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:44:46 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:9
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(9): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:17 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:17 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:17 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:45:17 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:45:17 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:9
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(9): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:19 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:19 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:19 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:45:19 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:45:19 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:19 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:9
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(9): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:20 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:9
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(9): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:20 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:9
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(9): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:20 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:9
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(9): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:45:20 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:20 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:9
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(9): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:21 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:21 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:21 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:45:21 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:45:21 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:9
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(9): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:21 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:21 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:21 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:45:21 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:45:21 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:9
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(9): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:57 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:57 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:57 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:45:57 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:45:57 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:9
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(9): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:59 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:9
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(9): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:59 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:9
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(9): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:59 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:9
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(9): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:45:59 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:45:59 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:9
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(9): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:46:22 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:46:22 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:46:22 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:46:22 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:46:22 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:46:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:9
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(9): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:46:27 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:46:27 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:46:27 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:46:27 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:46:27 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:46:27 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:9
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(9): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 9
+[11-Apr-2025 10:47:38 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:47:38 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:47:38 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:47:38 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:47:38 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 8
+[11-Apr-2025 10:47:38 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:8
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(8): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 8
+[11-Apr-2025 10:47:39 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:47:39 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:47:39 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:47:39 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:47:39 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 8
+[11-Apr-2025 10:47:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:8
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(8): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 8
+[11-Apr-2025 10:47:39 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:47:39 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:47:39 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:47:39 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:47:39 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 8
+[11-Apr-2025 10:47:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:8
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(8): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 8
+[11-Apr-2025 10:47:39 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:47:39 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:47:39 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:47:39 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:47:39 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 8
+[11-Apr-2025 10:47:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:8
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(8): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 8
+[11-Apr-2025 10:47:40 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:47:40 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:47:40 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:47:40 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:47:40 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 8
+[11-Apr-2025 10:47:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:8
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(8): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 8
+[11-Apr-2025 10:47:40 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:47:40 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:47:40 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:47:40 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:47:40 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 8
+[11-Apr-2025 10:47:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:8
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(8): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 8
+[11-Apr-2025 10:47:40 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:47:40 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 2
+[11-Apr-2025 10:47:40 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 4
+[11-Apr-2025 10:47:40 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 10:47:40 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 8
+[11-Apr-2025 10:47:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:8
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(8): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 8
+[11-Apr-2025 10:49:13 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 3
+[11-Apr-2025 10:49:13 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 3
+[11-Apr-2025 10:49:13 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:49:13 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 7
+[11-Apr-2025 10:49:13 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 11
+[11-Apr-2025 10:49:13 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:11
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(11): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 11
+[11-Apr-2025 10:49:14 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 3
+[11-Apr-2025 10:49:14 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 3
+[11-Apr-2025 10:49:14 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:49:14 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 7
+[11-Apr-2025 10:49:14 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 11
+[11-Apr-2025 10:49:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:11
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(11): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 11
+[11-Apr-2025 10:49:14 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 3
+[11-Apr-2025 10:49:14 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 3
+[11-Apr-2025 10:49:14 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:49:14 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 7
+[11-Apr-2025 10:49:14 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 11
+[11-Apr-2025 10:49:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:11
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(11): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 11
+[11-Apr-2025 10:49:15 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 3
+[11-Apr-2025 10:49:15 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 3
+[11-Apr-2025 10:49:15 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:49:15 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 7
+[11-Apr-2025 10:49:15 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 11
+[11-Apr-2025 10:49:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:11
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(11): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 11
+[11-Apr-2025 10:49:15 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 3
+[11-Apr-2025 10:49:15 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 3
+[11-Apr-2025 10:49:15 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 10:49:15 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 7
+[11-Apr-2025 10:49:15 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 11
+[11-Apr-2025 10:49:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:11
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(11): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 11
+[11-Apr-2025 10:49:21 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 3
+[11-Apr-2025 10:49:21 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 3
+[11-Apr-2025 10:49:21 UTC] PHP Warning:  Undefined global variable $___mysqli_ston in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 11
+[11-Apr-2025 10:49:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php:11
+Stack trace:
+#0 /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php(11): mysqli_query(NULL, 'INSERT INTO `na...')
+#1 {main}
+  thrown in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 11
+[11-Apr-2025 11:14:19 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 5
+[11-Apr-2025 11:14:19 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 6
+[11-Apr-2025 11:14:19 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 13
+[11-Apr-2025 11:14:19 UTC] PHP Warning:  Undefined array key "amount" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 15
+[11-Apr-2025 11:14:19 UTC] PHP Warning:  Undefined array key "userid" in /home/cashcroptest/public_html/userpanel/flutterwave/process_payment.php on line 16
